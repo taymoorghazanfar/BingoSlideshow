@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#24232B</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="black_transperent">#90000000</color>
+
+    <color name="theme_blue1">#1cabf1</color>
+    <color name="theme_blue2">#145fd6</color>
+    <color name="theme_blue3">#092f9a</color>
+
+    <color name="theme_orange1">#f7b229</color>
+    <color name="theme_orange2">#f47d21</color>
+    <color name="theme_orange3">#ec4518</color>
+
+    <color name="theme_purple1">#e58df5</color>
+    <color name="theme_purple2">#ae48d8</color>
+    <color name="theme_purple3">#5919ad</color>
+
+    <color name="black_30">#30000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="mainbgcolor">#1e183c</color>
+    <color name="stickerline">#ed8c28</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="wavebgcolor">@color/bottom_bg_color</color>
+    <color name="m_black_less_than_40_opacity">#60000000</color>
+    <color name="colorGray">#ffeeeeee</color>
+
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="black30">#4A070707</color>
+    <color name="white30">#F1F1F1</color>
+    <color name="transparent_black_60">#23000000</color>
+    <color name="transprent">#50000000</color>
+    <color name="gray_light">#e5e5e5</color>
+
+    <color name="grid_line">#00000000</color>
+    <color name="waveform_selected">#F2742D</color>
+    <color name="waveform_unselected">#585254</color>
+    <color name="waveform_unselected_bkgnd_overlay">#201E1F</color>
+    <color name="selection_border">#ffff99</color>
+    <color name="playback_indicator">#ffffff</color>
+    <color name="timecode">#ffffff</color>
+    <color name="timecode_shadow">#ffffff</color>
+
+    <color name="filter_0">#00ffffff</color>
+    <color name="filter_1">#1effffff</color>
+    <color name="filter_10">#e1ffffff</color>
+    <color name="filter_2">#37ffffff</color>
+    <color name="filter_3">#50ffffff</color>
+    <color name="filter_4">#69ffffff</color>
+    <color name="filter_5">#82ffffff</color>
+    <color name="filter_6">#9bffffff</color>
+    <color name="filter_7">#b4ffffff</color>
+    <color name="filter_8">#c8ffffff</color>
+    <color name="filter_9">#dcffffff</color>
+
+
+    <color name="toptextcolor">#fff</color>
+    <color name="opacitywhite">#80ffffff</color>
+    <color name="video_process_bg_color">#1e183c</color>
+    <color name="bottom_bg_color">#170f2a</color>
+    <color name="black">#000000</color>
+
+    <color name="imagepickerColor">#24232B</color>
+    <color name="buttonColor">#9364FF</color>
+</resources>

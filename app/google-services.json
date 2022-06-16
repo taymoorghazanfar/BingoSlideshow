@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603982626136",
+    "project_id": "bingo-slideshow-maker",
+    "storage_bucket": "bingo-slideshow-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603982626136:android:028e57e7580335579df92d",
+        "android_client_info": {
+          "package_name": "com.bingo.slideshowmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603982626136-e4bo7d1ofbi8glsav4oqbr9kp8872e4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQK-HJKS09w1Kx-PLtfbiLjhi6iXUvl1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603982626136-e4bo7d1ofbi8glsav4oqbr9kp8872e4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
